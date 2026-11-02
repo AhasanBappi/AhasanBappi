@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-<img alt="Coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width="390"/>
-
 # 💫 About Me:
 I am a student at AIUB, majoring in CSE. Alongside my studies, I am a passionate Python developer.
 
